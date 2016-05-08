@@ -1,7 +1,7 @@
 {
     "name": "jan-drda/laravel-nosql-connector",
     "description": "Model trait for using various NoSQL systems on Laravel",
-    "keywords": ["laravel", "nosql", "database", "connector", "mysql", "postgresql", "dynamodb", "sqlite", "mongolite"],
+    "keywords": ["laravel", "nosql", "database", "connector", "mysql", "postgresql", "dynamodb", "sqlite", "mongolite", "trait"],
     "homepage": "https://github.com/jdrda/laravel-nosql-connector",
     "type": "library",
     "license": "MIT",
